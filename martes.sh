@@ -1,5 +1,6 @@
 mkdir listo
 echo " carpeta"
 touch aa.txt
-echo "hecho"
+
 echo "hi"
+echo "crear"
